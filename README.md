@@ -28,6 +28,6 @@ Due to GitHub's file size limitations, the `.deb` file is hosted on **Google Dri
 You can install the package directly using `apt` by adding this repo:
 
 ```bash
-echo "deb [trusted=yes] https://yourusername.github.io/your-repo-name binary/" | sudo tee /etc/apt/sources.list.d/firefox-riscv64.list
+echo "deb [trusted=yes] https://faahmed123.github.io/firefox-nightly-riscv64 binary/" | sudo tee /etc/apt/sources.list.d/firefox-riscv64.list
 sudo apt update
 sudo apt install firefox-riscv64
