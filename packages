@@ -1,0 +1,14 @@
+Package: firefox-nightly-riscv
+Version: 1.0
+Architecture: riscv64
+Maintainer: faahmed 
+Depends: libgtk-3-0, libdbus-glib-1-2, libx11-6
+Filename: https://drive.google.com/uc?export=download&id=1a2b3c4d5e6f7g8h9i0j
+Size: 3318754782
+MD5sum: 82f352cd9991df9b92929270c59d787c
+SHA1: 85c4bbf9f9214ca771a410be2af9c8a36cf044cc
+SHA256: 5b30363fd903517fce4f2e9e6eecca4b290bd53b2fe583cdac5e987fd1388056
+Section: web
+Priority: optional
+Description: Firefox Nightly build for RISC-V architecture
+ A custom-built Firefox Nightly for RISC-V devices like the DC ROMA 2 laptop.
