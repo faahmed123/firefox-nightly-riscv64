@@ -9,7 +9,7 @@ Due to GitHub's file size limitations, the `.deb` file is hosted on **Google Dri
 ## 📦 What’s Included
 
 - Firefox `.deb` package for `riscv64`
-- APT metadata (`Packages.gz`) to allow installation via `apt`
+- APT metadata (`Packagez.gz`) to allow installation via `apt`
 - Manual download and install instructions
 - Google Drive-hosted `.deb` (3.3 GB)
 
